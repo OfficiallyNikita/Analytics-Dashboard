@@ -42,5 +42,8 @@ The dataset contains sales-related information, including: <br>
 --> Filters & Dynamic Controls for interactivity.<br>
 --> Bar Charts, Line Charts, and Pie Charts for visual representation.<br>
 
+## Check my work on the link below
+https://www.linkedin.com/posts/nikita-36b4b71b8_analytics-dashboard-activity-7303011585361379328-VO8Z?utm_source=share&utm_medium=member_android&rcm=ACoAADKenEMBJPQ1PAwZJHkCI3XcVFAIUdpEd_I
+
 ## Conclusion
 This interactive analytics dashboard provides a comprehensive view of sales and profit trends across multiple business dimensions. It helps in identifying key drivers of revenue, analyzing sales strategies, and improving decision-making. By leveraging Looker Studio’s powerful visualization tools, this project delivers meaningful insights that can guide business strategies for better profitability.
