@@ -42,7 +42,7 @@ The dataset contains sales-related information, including: <br>
 --> Filters & Dynamic Controls for interactivity.<br>
 --> Bar Charts, Line Charts, and Pie Charts for visual representation.<br>
 
-## Check my work on the link below
+## Check the Dashboard -->
 https://www.linkedin.com/posts/nikita-36b4b71b8_analytics-dashboard-activity-7303011585361379328-VO8Z?utm_source=share&utm_medium=member_android&rcm=ACoAADKenEMBJPQ1PAwZJHkCI3XcVFAIUdpEd_I
 
 ## Conclusion
